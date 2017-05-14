@@ -33,4 +33,6 @@ https://codalab.lri.fr/competitions/11
 https://www.youtube.com/watch?v=HblziKzeRng&feature=youtu.be
 
 
-Class taught by : Isabelle Guyon    http://www.clopinet.com/isabelle/
+# Class taught by : 
+
+Isabelle Guyon    http://www.clopinet.com/isabelle/
