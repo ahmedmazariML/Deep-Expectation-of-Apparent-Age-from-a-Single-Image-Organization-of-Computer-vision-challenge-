@@ -9,6 +9,8 @@ and validation datasets and they are re- quired to find the best approach in ord
 categories. The adult/minor clas- sification has important applications in various domains. In this report, we describe in
 more details the set up of the challenge and present some approaches for tackling the problem.
 
+Original article :  http://e-collection.library.ethz.ch/eserv/eth:48173/eth-48173-01.pdf
+
 # Usage
 
 To preprocess the data:
