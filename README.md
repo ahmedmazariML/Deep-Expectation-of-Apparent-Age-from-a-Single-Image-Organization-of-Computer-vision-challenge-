@@ -20,3 +20,17 @@ from this folder run
 $ python src/data_preprocessing.py
 
 the output file is : output/example.py
+
+
+# Challenge URL : 
+
+https://competitions.codalab.org/competitions/15790?secret_key=cf627d89-2ea0-435a-af88-99dc7f371cbd
+
+https://codalab.lri.fr/competitions/11
+
+# Video for undergraduate students 
+
+https://www.youtube.com/watch?v=HblziKzeRng&feature=youtu.be
+
+
+Class taught by : Isabelle Guyon    http://www.clopinet.com/isabelle/
